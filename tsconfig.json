@@ -14,6 +14,10 @@
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "moduleResolution": "bundler",
+    "strictPropertyInitialization": false,
+    "paths": {
+      "progress-bar": ["./dist/progress-bar"]
+    },
     "importHelpers": true,
     "target": "ES2022",
     "module": "ES2022"
