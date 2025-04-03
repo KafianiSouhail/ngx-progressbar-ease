@@ -1,6 +1,23 @@
 {
   "name": "ngx-progressbar-ease",
   "version": "0.0.1",
+  "description": "This a progress bar library to track http requests progress",
+  "keywords": [
+    "ngx",
+    "progress",
+    "progress-bar",
+    "progressbar",
+    "track"
+  ],
+  "author": {
+    "name": "Souhail Kafiani",
+    "email": "souhailkafiani2@gmail.com",
+    "url": "https://www.linkedin.com/in/kafiani-souhail/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KafianiSouhail/ngx-progressbar-ease.git"
+  },
   "peerDependencies": {
     "@angular/common": "^19.2.0",
     "@angular/core": "^19.2.0"
